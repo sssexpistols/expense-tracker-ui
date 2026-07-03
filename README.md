@@ -26,10 +26,15 @@ Parte del ecosistema de finanzas personales: [Savings Goal Tracker CLI](https://
 ## Instalación y uso
 
 ```bash
+git clone https://github.com/sssexpistols/expense-tracker-ui
+cd expense-tracker-ui
 npm install
+```
+- Una vez instalada se tendrá que tener levantado también app.py de la API para que Vue escuche el puerto 5000 y se comuniquen entre sí, para que una vez levantada la API
+  
+```bash
 npm run dev
 ```
-- Una vez instalada se tendrá que tener levantado también app.py de la API para que Vue escuche el puerto 5000 y se comuniquen entre sí
 
 ## Notas
  El desarrollo del proyecto lo decidí hacer con Vue porque fue uno de los frameworks que se comentaron durante la reunión, primeramente traté de responder preguntas básicas como ¿qué problemas me resolvería?, ¿qué limitantes tendría?, ¿cuáles serían los primeros problemas a solucionar?, ¿Qué serie de pasos me llevarán a ese resultado en el menor tiempo?, etc.  Los estilos están usados con Bootstrap, me dediqué el día de ayer a hacer la investigación de las tecnologías con las que trabajaría así como sobre cual arquitectura estaría sustentado el proyecto, en este caso consulté diversas fuentes de información y para la arquitectura terminé optando por Builder ya que al tener en mente funcionalidades por añadir o para editar, agregar, etc. Me pareció lo más sensato por su gran capacidad de elaborar sistemas.

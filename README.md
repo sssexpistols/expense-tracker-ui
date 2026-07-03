@@ -52,7 +52,7 @@ npm run dev
 
  
  ### REFERENCIAS BIBLIOGRÁFICAS CONSULTADAS
- `https://www.reddit.com/r/vuejs/comments/1jmjl1q/best_simple_setup_for_flask_and_vue/`
- `https://refactoring.guru/es/design-patterns/builder/`
- `https://refactoring.guru/es/design-patterns/builder/typescript/example#lang-features`
- `https://www.luisllamas.es/estructura-app-vue/`
+ - `https://www.reddit.com/r/vuejs/comments/1jmjl1q/best_simple_setup_for_flask_and_vue/`
+ - `https://refactoring.guru/es/design-patterns/builder/`
+ - `https://refactoring.guru/es/design-patterns/builder/typescript/example#lang-features`
+ - `https://www.luisllamas.es/estructura-app-vue/`

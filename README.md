@@ -15,7 +15,10 @@ Parte del ecosistema de finanzas personales: [Savings Goal Tracker CLI](https://
 - Modificar el valor de gastos (nombre, monto) esto fue un error por mi parte al momento de hacer la estructura del proyecto y tratar de sintetizar lo máximo posible en el menor tiempo, es algo que sucedió por no manejar correctamente mi tiempo vs la entrega de algo mínimamente funcional en ese sentido.
 - Tener una mejor visualización de datos ya que en la forma de lista que se muestran los gastos fue mi solución rápida para resolverlo pero no es la forma más óptima o amigable a la vista ya que se rompe el orden visual por hacer demasiado scroll.
 - Convertir la web a una SAP o web dinámica ya que necesita dar refresh cuando se elimina un gasto para que este se vea reflejado y de igual manera cuando se aplica un filtro da ese refresh.
+- Crear también el sistema de ahorro para que también se mida el presupuesto para tener un ecosistema completo entre los 3 proyectos
 
+- Estas funciones quedaron pendientes de aplicar ya que por todo el proyecto me tomé poco más de 4hrs de desarrollo hasta obtener las primeras interacciones reales con todo el sistema unido, durante la serie de pasos a seguir y la ruta que tomaría para llevarlo cometí un error al subestimar el tiempo que me tomaría, error que no volverá a suceder pues ahora soy más consciente de lo que es trabajar bajo esa presión de tiempo y demanda, comprometiéndome a generar rutas que primero nos permitan obtener lo mínimo presentable y después trabajar sobre de ello con orden de importancia en las tareas delegadas.
+  
 ## Funcionalidades que me gustaría añadir a futuro
 - Poder cargar archivos csv y excel personales y poder trabajar sobre las columnas a trabajar aprovechando que ya se está implementando el frontend y así no solo funcione con los archivos/datos que se crean desde la app.
 
@@ -41,9 +44,15 @@ npm run dev
  Otro dato a comentar que me parece de relevancia es el hecho de como está estructurado (ya que por la mala administración de tiempo que comenté anteriormente de la cual me hago total responsable para que no vuelva a ocurrir), la hice lo más correcta posible basado en las necesidades del proyecto, es por eso que no añadí una carpeta views ya que manejo una sola vista como tal, de igual forma estoy abierto a cualquier comentario para este tipo de situaciones. También lo comento porque hice un gran esfuerzo en separar los componentes aunque ahora ya con mas tiempo y buscando información me doy cuentas de distintas áreas de oportunidad como separar botones, formatos de encabezado, etc.
 
  Sin más que agregar, solo externar mi profundo agradecimiento por el tiempo tomado a lo largo de este proceso de selección y ahora para la evaluación de este proyecto, esperando que sea satisfactorio y sea entendible el como abordé este reto; quedo abierto a cualquier tipo de comentario o crítica constructiva de este desarrollo que pudieras aportar. Un abrazo.
+# CAPTURAS DEL PROYECTO
+ <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8353a09d-d946-4d7e-b730-67832534c374" />
+ <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/a52f4e20-6592-491a-a5aa-bfa1b16f25d3" />
+ <img width="1919" height="798" alt="image" src="https://github.com/user-attachments/assets/72f9d095-edb0-4c65-ab81-cda4cc6b3014" />
+ <img width="1344" height="790" alt="image" src="https://github.com/user-attachments/assets/ff32eff3-ec30-49cb-9097-4083a469f217" />
+
  
  ### REFERENCIAS BIBLIOGRÁFICAS CONSULTADAS
- https://www.reddit.com/r/vuejs/comments/1jmjl1q/best_simple_setup_for_flask_and_vue/
- https://refactoring.guru/es/design-patterns/builder/
- https://refactoring.guru/es/design-patterns/builder/typescript/example#lang-features
- https://www.luisllamas.es/estructura-app-vue/
+ `https://www.reddit.com/r/vuejs/comments/1jmjl1q/best_simple_setup_for_flask_and_vue/`
+ `https://refactoring.guru/es/design-patterns/builder/`
+ `https://refactoring.guru/es/design-patterns/builder/typescript/example#lang-features`
+ `https://www.luisllamas.es/estructura-app-vue/`

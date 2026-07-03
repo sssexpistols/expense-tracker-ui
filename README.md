@@ -14,7 +14,7 @@ Parte del ecosistema de finanzas personales: [Savings Goal Tracker CLI](https://
 ## Funcionalidades pendientes
 - Modificar el valor de gastos (nombre, monto) esto fue un error por mi parte al momento de hacer la estructura del proyecto y tratar de sintetizar lo máximo posible en el menor tiempo, es algo que sucedió por no manejar correctamente mi tiempo vs la entrega de algo mínimamente funcional en ese sentido.
 - Tener una mejor visualización de datos ya que en la forma de lista que se muestran los gastos fue mi solución rápida para resolverlo pero no es la forma más óptima o amigable a la vista ya que se rompe el orden visual por hacer demasiado scroll.
-- Convertir la web a una SAP o web dinámica ya que necesita dar refresh cuando se elimina un gasto para que este se vea reflejado y de igual manera cuando se aplica un filtro da ese refresh.
+- Convertir la web a una SAP o web dinámica ya que necesita dar refresh cuando se elimina un gasto para que este se vea reflejado y de igual manera cuando se aplica un filtro da ese refresh (sí se aplica el filtro al momento pero da un refresh visual cuando se vuelven a cargar los datos).
 - Crear también el sistema de ahorro para que también se mida el presupuesto para tener un ecosistema completo entre los 3 proyectos
 - Tener filtros también par las cards (total gastado, registros, mayor gasto, top categoría) dinámico, es decir que se actualicen los datos respondiendo también al filtro para que se vea más coherente la información mostrada en la web una vez que se aplique algún filtro por servicio o fecha
   

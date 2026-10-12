@@ -1,5 +1,5 @@
 # Expense Tracker UI
-
+[ESTE PROYECTO FUE DESARROLLADO COMO PRUEBA TÉCNICA PARA HAVOC.]
 Frontend web para el [Expense Tracker API](https://github.com/sssexpistols/expense-tracker-api). Permite registrar, visualizar y filtrar gastos personales, y exportar reportes Excel.
 
 Parte del ecosistema de finanzas personales: [Savings Goal Tracker CLI](https://github.com/sssexpistols/savings-goal-tracker) · [Expense Analyzer](https://github.com/sssexpistols/expense-analyzer) · [Expense Tracker API](https://github.com/sssexpistols/expense-tracker-api)
